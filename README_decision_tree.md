@@ -38,7 +38,7 @@ Verilerin ilişkilerini daha iyi anlamak için aşağıdaki grafik türlerini ku
 
 ### 3. Özellik Ölçekleme ve Kodlama
 - Sayısal değişkenleri `StandardScaler` ile normalize ettim.
-- `make`, `model`, `transmission`, `body` gibi kategorik sütunları one-hot encoding yöntemiyle dönüştürdüm.
+- `make`, , `transmission`, gibi kategorik sütunları one-hot encoding yöntemiyle dönüştürdüm.
 - Ortaya çıkan yüksek boyutlu veri çerçevesi (`df_final`) yaklaşık 900 sütun içeriyordu.
 
 ### 4. Modelleme: Decision Tree Regressor
