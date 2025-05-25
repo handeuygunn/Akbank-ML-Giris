@@ -52,7 +52,7 @@ Verilerin ilişkilerini daha iyi anlamak için aşağıdaki grafik türlerini ku
 - Eğitim sonrasında en iyi modeli test verisi üzerinde kullanarak RMSE değerini hesapladım.
 
 ### 5. Sonuç
-Modelimin RMSE değeri oldukça düşüktü. Bu da modelin test verisinde düşük hata ile tahmin yaptığını gösteriyor. Ancak tüm özelliklerin one-hot encoded olması nedeniyle overfitting riskini de göz önünde bulundurdum. Gerekirse `SelectKBest` gibi yöntemlerle boyut indirgeme planlıyorum.
+Modelimin RMSE değeri oldukça düşüktü.(Test RMSE: 0.1561) Bu da modelin test verisinde düşük hata ile tahmin yaptığını gösteriyor. Ancak tüm özelliklerin one-hot encoded olması nedeniyle overfitting riskini de göz önünde bulundurdum. Gerekirse `SelectKBest` gibi yöntemlerle boyut indirgeme planlıyorum.
 
 ## Kullanılan Kütüphaneler
 
