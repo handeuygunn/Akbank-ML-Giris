@@ -1,6 +1,6 @@
 
 # 🚗 Vehicle Sales Price Analysis & Prediction
-
+Kaggle link: https://www.kaggle.com/code/handeuygun/decisiontreeregression-price-predict
 Bu proje, araç satış verilerinin analiz edilmesi, çeşitli özniteliklerin fiyat üzerindeki etkisinin incelenmesi ve nihayetinde araç fiyatlarını tahmin eden bir makine öğrenimi modelinin geliştirilmesini amaçlamaktadır.
 
 ## 📁 Proje İçeriği
