@@ -1,7 +1,8 @@
 # Araç Satış Fiyatı Tahmini – Decision Tree Regressor ile
 
 Bu projede, araç satış verilerini analiz ederek satış fiyatlarını tahmin eden bir regresyon modeli geliştirdim. Karar ağacı (Decision Tree Regressor) algoritmasını kullanarak, farklı özelliklerin satış fiyatı üzerindeki etkisini inceledim ve en uygun hiperparametreleri `RandomizedSearchCV` ile belirledim.
-
+## Kaggle linki: 
+https://www.kaggle.com/code/handeuygun/decisiontreeregression-price-predict
 ## Projenin Amacı
 
 Amaç, çeşitli araç özelliklerine (yıl, marka, km, kondisyon, MMR vs.) göre ikinci el araçların satış fiyatlarını olabildiğince doğru bir şekilde tahmin etmekti. Böylece hem pazar eğilimlerini daha iyi anlamak hem de gelecekteki satış fiyatlarını öngörebilen bir model oluşturmak istedim.
